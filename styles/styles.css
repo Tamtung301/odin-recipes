@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient(to right,#4903fc,#7915d1);
+}
+
+#header{
+    color: #f1e3fc;
+    text-align: center;
+    font-family: helvetica, tahoma, "times new roman";
+    font-size: 100px;
+}
+
+.swedish-chef{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.recipes{
+    font-size: 40px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+a:link{
+    color: #f1e3fc;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: pink;
+}
+a:active{
+    color: red;
+}
+ul{
+    list-style-type: "🍽️";
+    display: inline-block;
+    text-align: left;
+}
